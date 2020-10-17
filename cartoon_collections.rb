@@ -5,6 +5,9 @@ def greet_characters(array)
   
   array.each do |a|
     
+    { |a| p a }
+    
+    
   
 end
 
